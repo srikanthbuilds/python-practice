@@ -1,5 +1,7 @@
 # ---------------------- 2D - Sets -------------------------------
 #  BUT REMEMBER , sets are unoredered and cannot access teh elements in the sets.
+
+# Sets in tuple collection
 fruits = {"apple","mango","grapes","orange","banana"}
 vegetables = {"carrots", "beetroots","onions","califlowers"}
 meats = {"chicken","mutton","Fish"}

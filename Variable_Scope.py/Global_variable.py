@@ -9,3 +9,27 @@ def funct2():
 x = 30   # This is a global varible.
 funct1()
 funct2()
+
+"""
+scope resolution : Order - > LEGB
+
+    Built-in Variable 
+          ^
+          |
+          
+    Global variable
+
+          ^
+          |
+          
+     Enclosed variable
+     
+          ^
+          |
+
+     Local varible 
+
+
+
+
+"""

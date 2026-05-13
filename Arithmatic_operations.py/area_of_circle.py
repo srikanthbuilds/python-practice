@@ -3,4 +3,4 @@ import math
 
 radius = float(input("Enter radius of your circle : "))
 area = math.pi*math.pow(radius,2)
-print(f"The are of your circle is : {round(area,2)} cm's")
+print(f"The area of your circle is : {round(area,2)} cm's")

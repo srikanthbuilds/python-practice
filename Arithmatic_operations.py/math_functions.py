@@ -4,7 +4,7 @@ x = -2
 print(pi)
 
 print(round(pi)) # round() : is used for approx values without point values!
-print(abs(x)) # abs() : used to convert a values to exact -ve to +ve and viceversa!
+print(abs(x)) # abs() : used to convert a value to exact -ve to +ve and viceversa!
 
 # used for power values !!
 
@@ -14,7 +14,7 @@ print(y)
 # to find suare root number !!
 
 z = math.sqrt(16)
-print(z)
+print("sqrt :",z)
 
 # for e value in physics !!
 
@@ -37,4 +37,6 @@ print(math.ceil(3.1))
 
 # math.floor
 
-print(math.floor(9.3))
+print(math.floor(9.9))
+
+

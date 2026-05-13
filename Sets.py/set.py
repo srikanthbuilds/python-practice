@@ -14,4 +14,4 @@ for fruit in fruits:
 # fruits.clear() #  clears all the elements in the set.
 # print(fruits)
 # print(len(fruits))
-print(fruits.count("apple"))
+# print(fruits.count("apple"))

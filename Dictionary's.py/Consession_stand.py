@@ -18,7 +18,7 @@ cart = []
 total =0
 
 for key,value in menue.items():
-    print(f"{key:15}:{value:.2f}"
+    print(f"{key:}:{value:.2f}"
     )
 print()
 print("----------------------------------------------------------")
@@ -28,7 +28,7 @@ while True:
     food = input("Enter an item from the above menue (q to quit): ").lower()
     if food == "q":
         break
-    elif menue.get(food)==None:
+    elif menue.get(food)== None:
          print(f"{food} is not there in our menue!")
     elif menue.get(food) is not None:
         total += menue.get(food)

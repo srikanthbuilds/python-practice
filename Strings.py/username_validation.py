@@ -1,3 +1,4 @@
+print("--- checking username ---")
 user_name = str(input("Enter your name :"))
 if len(user_name) > 12:
     print("username cannot contains more than 12 characters!") 

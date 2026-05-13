@@ -16,7 +16,7 @@ for food in foods:
 for price in prices:
     total += price
 print(f"Your total is : ${total:.2f}")
-print("----- Visit again ----- :)")
+print("----- Thankyou for Visiting ----- :)")
 
     
 

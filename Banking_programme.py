@@ -25,7 +25,7 @@ def withdraw(balance):
         return 0
     elif money > balance :
         print("------------------------------")
-        print("Insufficient balance.")
+        print("Insufficient bank balance.")
         print("------------------------------")
         return 0
     else:

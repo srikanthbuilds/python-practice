@@ -1,0 +1,1 @@
+student4 = student("vel",6.3)

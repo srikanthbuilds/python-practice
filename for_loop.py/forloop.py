@@ -7,5 +7,5 @@ for i in range(1,11):
     if i == 5:
         continue # it will skip the current iteration and move to the next iteration !!
     elif i == 9:
-        break
+        break # it will breaks the loop !
     print(i)

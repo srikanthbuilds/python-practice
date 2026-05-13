@@ -36,9 +36,11 @@ students_marks = {"Srikanth" : 99,
 # students_marks.update({"Srikanth": 100})
 # print(students_marks)
 
-# students_marks.pop("Peter park") # it removes a key:value pair.
+# students_marks.pop("Peter park") # it removes a {key:value} pair.
 
-# students_marks.popitem() # it removes latest key:value pair.
-# print(students_marks.popitem()) # it will prints (or) returns latest key:value pair.
-students_marks.clear()
+# students_marks.popitem() # it removes latest {key:value} pair.
+# print(students_marks.popitem()) # it will prints (or) returns latest {key:value} pair.
+
+# students_marks.clear() //  it clears the dictionary , which removes all the {key:value} pairs. 
+
 print(students_marks)
