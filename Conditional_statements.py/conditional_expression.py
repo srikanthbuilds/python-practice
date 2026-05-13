@@ -13,7 +13,7 @@ user_roll = "Admin"
 # print(minnum)
 # status = "Adult"if age >= 18 else "Child"
 # temp = "Hot" if temp >= 30 else "Cold"
-access = "Full access " if user_roll == "Admin" else "Limited access" 
+access = "You can have Full access! " if user_roll == "Admin" else "Limited access" 
 print(access)
 
 # Id verification programme 

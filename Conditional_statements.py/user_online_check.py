@@ -1,5 +1,5 @@
 online = False
 if online:
-    print("The user is online!")
+    print("The user is in online!")
 else:
-    print("The user is offline!")
+    print("The user is in offline!")
