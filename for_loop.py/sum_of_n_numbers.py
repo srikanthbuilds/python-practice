@@ -1,5 +1,7 @@
 n = int(input("Enter your number for sum : "))
 sum = 0
-for i in range(1,n+1):
-    sum = sum + i
+while n>0:
+    digit = n%10
+    sum = sum + digit
+    n = n //10
 print(sum)

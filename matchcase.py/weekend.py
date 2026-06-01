@@ -7,4 +7,4 @@ def weekend(day):
         case _:
             print("invalid !!")
 
-print(weekend("sunday"))
+print(weekend(input("Enter your day :")))
