@@ -1,4 +1,4 @@
-#  SETS = {} unordered and immutable, but add/remove OK , No duplicates
+#  SETS = {} unordered and immutable, but add/remove OK , No duplicates were accepeted!
 fruits = {"apple","mango","grapes","orange","banana"}
 # fruits.remove("apple")
 # fruits.add("apple")

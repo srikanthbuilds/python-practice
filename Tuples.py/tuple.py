@@ -8,7 +8,7 @@ fruits = ("apple","mango","grapes","orange","banana")
 # print(fruits.count("apple"))
 # print("papaya" in fruits)
 
-#   to help you about the methods fro tuples !!
+#   to help you about the methods for tuples !!
 
 # print(dir(fruits))
 # print(help(fruits))
