@@ -1,5 +1,5 @@
 import os
-file_path = "C:/Users/Owner/OneDrive/Desktop/test.txt"
+file_path = "C:\\Users\\parik_6r4phsv\\OneDrive\\Desktop\\test.txt"
 
 if os.path.exists(file_path):
     print(f"The location '{file_path}' is found!")

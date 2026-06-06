@@ -6,14 +6,11 @@ try:
         content = csv.reader(file)
         for line in content:
            print(line)
-    
     """
     
      for line in content:
            print(line[n]) , n for to print particular column!
     
     """
-
-
 except FileExistsError:
   print(f"That file ' {file_path} ' already exists")

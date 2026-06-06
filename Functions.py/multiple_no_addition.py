@@ -3,6 +3,4 @@ def add(*nums):
     for num in nums:
         total += num
     print(total)    
-
-    # print(type(*args))
-add(1,2,3,45,78)
+add(1,2,3)
